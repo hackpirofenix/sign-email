@@ -1,0 +1,32 @@
+*{
+    margin: 0  ;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+background: #000000;
+color: aliceblue;
+}
+
+.chair {
+    height: 60%;
+    position: 0;
+    top: 70%;
+    left: 50%;
+    transform: translate();
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
