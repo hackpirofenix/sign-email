@@ -321,7 +321,9 @@ a:active, a:focus {
   text-decoration: none !important;
   color: #FFFFFF;
 }
-
+.ragione{
+  color: black;
+}
 button {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
