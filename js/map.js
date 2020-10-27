@@ -190,7 +190,7 @@ function init() {
     var map = new google.maps.Map(document.getElementById('map'), mapOptions, center);
 
     var locations = [
-        ['<h6>Via Nazionale, 93 - 24068 Seriate BG</h6><p>orario di apertura<br><i class="fa fa-clock-o"></i> 08:30 - 20:30 </p>', 45.6870397,9.7389936,20z]
+        ['<h6>Via Nazionale, 93 - 24068 Seriate BG</h6><p>orario di apertura<br><i class="fa fa-clock-o"></i> 08:30 - 20:30 </p>', 45.6870397,9.7389936,20]
     ];
 
     var infowindow = new google.maps.InfoWindow();
