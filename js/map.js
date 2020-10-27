@@ -190,9 +190,7 @@ function init() {
     var map = new google.maps.Map(document.getElementById('map'), mapOptions, center);
 
     var locations = [
-        ['<h6>Bondi Beach, East Coast</h6><p>This is where we are currently, the sun goes down...<br><i class="fa fa-coffee"></i> Visit us, we pay the coffee!</p>', 37.7749295, -122.41941550000001, 1],
-        ['<h6>Coogee Beach, East Coast</h6><p>Opening Hours<br><i class="fa fa-clock-o"></i> 8:00 to 22:00</p>', 34.0522342, -118.2436849, 2],
-        ['<h6>Manly Beach, East Coast</h6><p>Opening Hours<br><i class="fa fa-clock-o"></i> 6:00 to 14:00</p>', 24.1426408, -110.31275310000001, 3]
+        ['<h6>Via Nazionale, 93 - 24068 Seriate BG</h6><p>orario di apertura<br><i class="fa fa-clock-o"></i> 08:30 - 20:30 </p>', 45.6870397,9.7389936,20z]
     ];
 
     var infowindow = new google.maps.InfoWindow();
